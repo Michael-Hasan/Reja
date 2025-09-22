@@ -14,7 +14,6 @@
   display: flex;
   flex-direction: row;
   margin-top: 2px;
-  /* background-color: #f7f6b9; */
 }
 
 .main_frame .left_frame {
@@ -30,7 +29,6 @@
   position: relative;
   width: 228px;
   height: 267px;
-  /* margin-top: 50px; */
   margin-left: 37px;
   display: flex;
   flex-direction: column;
