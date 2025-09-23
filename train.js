@@ -1,15 +1,15 @@
 // MITASK - A;
-// function countLetter(letter, word) {
-//   let count = 0;
-//   for (let char of word) {
-//     if (char === letter) {
-//       count++;
-//     }
-//   }
-//   return count;
-// }
+function countLetter(letter, word) {
+  let count = 0;
+  for (let char of word) {
+    if (char === letter) {
+      count++;
+    }
+  }
+  return count;
+}
 
-// console.log(countLetter("e", "engineer"));
+console.log(countLetter("e", "engineer"));
 
 //=======================================================//
 
